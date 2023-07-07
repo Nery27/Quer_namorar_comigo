@@ -1,0 +1,54 @@
+body{
+    padding-top: 100px;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,69,214,1) 100%);
+    text-align: center;
+
+}
+    .painel{
+    padding-top: 20px;
+    margin: auto;
+    width: 500px;
+    height: 570px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 5px 80px #fff;
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+  font-size: 200;
+  color: rgb(36, 35, 35);
+
+}
+
+h2{
+    color: rgb(36, 35, 35);
+}
+
+#sim{
+    
+    width: 80px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 76);
+    color: bisque;
+    font-size: 25px;
+    margin-left: -90px;
+    box-shadow: 0 5px 80px rgb(36, 35, 35);
+    
+    
+}
+#nao{
+    position: absolute;
+    width: 80px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 76);
+    color: bisque;
+    font-size: 25px;
+    margin-left: 10px;
+    box-shadow: 0 5px 80px rgb(36, 35, 35);
+    
+}
